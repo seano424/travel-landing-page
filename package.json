@@ -6,9 +6,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "classnames": "^2.2.6",
+    "hamburger-react": "^2.4.1",
     "next": "latest",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "tailwindcss-classnames": "^2.2.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",

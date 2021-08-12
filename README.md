@@ -1,3 +1,11 @@
+## Using Dribble as Inspiration
+This example page is to show off a nice design landing page. It is just an example page using Tailwind and NextJS. I also used react-icons and hamburger-react.
+
+This is what the page looks like...
+
+
+![image capture of website](./public/images/screencapture.png)
+![gif of mobile](http://g.recordit.co/nPms1tjfOP.gif)
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
